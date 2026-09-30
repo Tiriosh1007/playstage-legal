@@ -1,0 +1,14 @@
+# This public site is legal pages only.
+# Never add credentials, keys, or environment files.
+.env
+.env.*
+*.pem
+*.p8
+*.p12
+*.key
+*service*account*.json
+*adminsdk*.json
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+secrets/
